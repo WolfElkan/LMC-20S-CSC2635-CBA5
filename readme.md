@@ -36,10 +36,10 @@ Changed both, as well as the Frame Title to their translations in French.  I was
 
 # Activity : Inheritance for Customized Frames
 
-##Objective
+## Objective
 * Understand how to create a customized frame with components
 
-##Instructions
+## Instructions
 * Compare source code for FilledFrameViewer  (`ch10/section_1_2`) with source code for FilledFrameViewer2 and FilledFrame (`ch10/section_1_3`)
   * See if you can articulate the difference between the two strategies (`section_1_2` and `section_1_3`)
   * Explain why the second strategy (`section_1_3`) might be better.
